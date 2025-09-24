@@ -39,7 +39,7 @@ h1 {
 
 .cartao-foto img {
     width: 100%;
-    height: 100%;
+    height: 80%;
     border-radius: 10 px 10px 0 0;
     display: block;
 }
